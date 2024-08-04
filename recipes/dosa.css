@@ -13,29 +13,33 @@ img {
 }
 #Description {
   margin: 20px;
-  font-size: 25px;
+  font-size: 30px;
 }
 #Ingredients {
   margin: 20px;
-  font-size: 25px;
+  font-size: 30px;
 }
 #Steps {
   margin: 20px;
-  font-size: 25px;
+  font-size: 30px;
 }
 #imgcenter {
   text-align: center;
 }
 .center {
+  color: black;
   text-align: center;
   font-weight: bold;
   text-decoration: underline;
 }
 .marginleft {
+  color: black;
   font-size: 20px;
-  margin-right: 20vw;
   margin-left: 20vw;
-  font-size: 25px;
+  margin-right: 20vw;
+}
+#unorderedlist {
+  marginleft: 20px;
 }
 ul li::marker {
   color: green;
