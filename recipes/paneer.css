@@ -1,0 +1,43 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+img {
+  height: 30vw;
+  width: auto;
+}
+#mainheading {
+  font-size: 40px;
+  padding: 30px;
+  font-weight: bold;
+}
+#Description {
+  margin: 20px;
+  font-size: 25px;
+}
+#Ingredients{
+  margin: 20px;
+  font-size: 25px;
+}
+#Steps{
+  margin: 20px;
+  font-size: 25px;
+}
+#imgcenter {
+  text-align: center;
+}
+.center {
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.marginleft {
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+ul li::marker {
+  color: green;
+}
+body{
+  background-color: orange;
+}

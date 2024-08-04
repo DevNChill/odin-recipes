@@ -2,3 +2,27 @@
   margin: 0;
   padding: 0;
 }
+#Odin-Recipes {
+  text-align: center;
+  padding: 20px;
+  font-size: 100px;
+  background-color: purple;
+  outline: 2px soid blue;
+}
+#ChannelPromotion {
+  font-size: 20px;
+  display: block;
+  padding-left: 85%;
+  font-style: italic;
+  color: pink;
+  text-decoration: underline;
+  background-color: purple;
+}
+#DivEntrypoint {
+  background-color: white;
+  color: red;
+  padding: 90px;
+}
+.EntryPoint {
+  font-size: 30px;
+}
